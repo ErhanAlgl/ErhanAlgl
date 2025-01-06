@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhanalgl&label=Profile%20views&color=0e75b6&style=flat" alt="erhanalgl" /> </p>
 
-- 🔭 I’m currently working on [Front-end Developer Bootcamp](https://www.patika.dev/patikaplus/patika-front-end-bootcamp)
+- 🔭 I’m [Front-end Developer]
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React, React Native, Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErhanAlgl](https://github.com/ErhanAlgl)
 

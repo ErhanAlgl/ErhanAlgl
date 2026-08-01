@@ -153,7 +153,7 @@ Enterprise solutions focused on:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/erhan-algül">
+<a href="https://linkedin.com/in/erhan-algul">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 

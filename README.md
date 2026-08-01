@@ -149,16 +149,6 @@ Enterprise solutions focused on:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ErhanAlgl/ErhanAlgl/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
 # 🌎 Connect With Me
 
 <p align="center">

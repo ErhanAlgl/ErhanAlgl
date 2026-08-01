@@ -3,11 +3,15 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: Platane/snk@v3
@@ -19,6 +23,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TARGET_BRANCH: output
